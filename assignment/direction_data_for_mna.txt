@@ -1,0 +1,11 @@
+IMPORTANT: COMPONENT DIRECTIONS FOR MNA MATRIX
+=============================================
+The direction information in the detected components dictionary
+MUST be used for determining current flow in MNA matrix formation.
+
+For current sources: Current flows FROM 'start' TO 'end'
+For voltage sources: Positive terminal at 'start', negative at 'end'
+For diodes: Anode at 'start', cathode at 'end'
+
+When building comp_connections or node assignments for the MNA matrix,
+make sure you use this direction information rather than a different ordering.
