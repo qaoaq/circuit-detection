@@ -1,0 +1,52 @@
+data/obj_train_data/capacitor1.jpg
+data/obj_train_data/capacitor2.jpg
+data/obj_train_data/capacitor3.jpg
+data/obj_train_data/circuit (1).jpg
+data/obj_train_data/circuit (2).jpg
+data/obj_train_data/circuit (3).jpg
+data/obj_train_data/circuit (4).jpg
+data/obj_train_data/circuit (5).jpg
+data/obj_train_data/circuit (6).jpg
+data/obj_train_data/circuit.jpg
+data/obj_train_data/circuit1.jpg
+data/obj_train_data/circuit10.jpg
+data/obj_train_data/circuit11.jpg
+data/obj_train_data/circuit12.webp
+data/obj_train_data/circuit13.jpeg
+data/obj_train_data/circuit14.jpg
+data/obj_train_data/circuit15.jpeg
+data/obj_train_data/circuit16.jpg
+data/obj_train_data/circuit17.jpeg
+data/obj_train_data/circuit18.jpg
+data/obj_train_data/circuit19.jpg
+data/obj_train_data/circuit2.jpeg
+data/obj_train_data/circuit20.jpeg
+data/obj_train_data/circuit21.jpg
+data/obj_train_data/circuit3.jpg
+data/obj_train_data/circuit4.jpg
+data/obj_train_data/circuit5.jpg
+data/obj_train_data/circuit6.jpeg
+data/obj_train_data/circuit7.webp
+data/obj_train_data/circuit8.webp
+data/obj_train_data/circuit9.jpeg
+data/obj_train_data/controlled current source1.jpg
+data/obj_train_data/controlled current source2.jpeg
+data/obj_train_data/controlled voltage source1.jpg
+data/obj_train_data/controlled voltage source2.jpeg
+data/obj_train_data/current source1.jpg
+data/obj_train_data/current source2.jpg
+data/obj_train_data/current source3.jpeg
+data/obj_train_data/diode1.jpg
+data/obj_train_data/diode2.jpeg
+data/obj_train_data/diode3.jpeg
+data/obj_train_data/diode4.jpeg
+data/obj_train_data/ground1.png
+data/obj_train_data/ground2.jpg
+data/obj_train_data/inducor4.jpeg
+data/obj_train_data/inductor1.jpg
+data/obj_train_data/inductor2.jpg
+data/obj_train_data/inductor3.jpg
+data/obj_train_data/resistor1.jpg
+data/obj_train_data/resistor2.jpg
+data/obj_train_data/voltage source1.jpg
+data/obj_train_data/voltage source2.jpg
